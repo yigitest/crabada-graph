@@ -1,0 +1,6 @@
+plotly==5.6.0
+requests
+notebook>=5.3
+ipywidgets>=7.5
+pandas
+nb_black
